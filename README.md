@@ -47,4 +47,4 @@ How to use ChatGPT-1106-Preview
 
 ## 六、其他资源
 
-1. **访问oneapi.huinong.cop**：在此网站，你可以学习或者使用ChatGPT API 中转站，他可以帮助你在中国大陆无障碍使用ChatGPT的API接口，也可以访问我们的Home WebSit: https://home.huinong.co。
+1. **访问 https://oneapi.huinong.cop** ：在此网站，你可以学习或者使用ChatGPT API 中转站，他可以帮助你在中国大陆无障碍使用ChatGPT的API接口，也可以访问我们的Home WebSit: https://home.huinong.co
